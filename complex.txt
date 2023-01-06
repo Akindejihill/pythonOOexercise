@@ -1,0 +1,11 @@
+# This line is a comment line and should be ignored
+
+abacate
+
+abacay
+
+abacinate
+
+# This line is also a comment line
+
+# Another comment
